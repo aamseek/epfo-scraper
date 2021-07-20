@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask = "*"
+selenium = "*"
+google-cloud = "*"
+google-cloud-vision = "*"
+scrapy = "*"
+pytesseract = "*"
+scrapy-selenium = "*"
+numpy = "*"
+scipy = "*"
+
+[requires]
+python_version = "3.7"
